@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:id="@+id/navigation_kasus"
+        android:title="@string/kasus"
+        android:icon="@drawable/ic_virus"/>
+
+    <item android:id="@+id/navigation_informasi"
+        android:title="@string/informasi"
+        android:icon="@drawable/ic_archive"/>
+
+    <item android:id="@+id/navigation_bantuan"
+        android:title="@string/bantuan"
+        android:icon="@drawable/ic_hospital"/>
+
+</menu>

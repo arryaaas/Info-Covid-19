@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Info Covid-19</string>
+    <string name="kasus">Kasus</string>
+    <string name="informasi">Informasi</string>
+    <string name="bantuan">Bantuan</string>
+    <string name="stay_home">Stay Home,</string>
+    <string name="stay_safe">Stay Safe.</string>
+    <string name="update_kasus_corona">Update Kasus Corona</string>
+    <string name="loading">Loading…</string>
+    <string name="lihat_detail">Lihat Detail</string>
+    <string name="empty">--</string>
+    <string name="kasus_positif">Kasus Positif</string>
+    <string name="sembuh">Sembuh</string>
+    <string name="meninggal">Meninggal</string>
+    <string name="berita_penting">Berita Penting</string>
+    <string name="ketahui">Ketahui,</string>
+    <string name="covid_19">Covid - 19</string>
+    <string name="apa_itu_virus_corona">Apa itu Virus Corona?</string>
+    <string name="tanya">Tanya,</string>
+    <string name="dokter">Dokter</string>
+    <string name="pusat_bantuan">Pusat Bantuan</string>
+    <string name="seperti_ini"><u>seperti ini,</u></string>
+    <string name="jika_anda_mengalami_gejala_gejala">Jika anda mengalami gejala-gejala</string>
+    <string name="silahkan_hubungi_kontak_di_bawah">Silahkan hubungi kontak di bawah.</string>
+    <string name="search">search</string>
+</resources>
